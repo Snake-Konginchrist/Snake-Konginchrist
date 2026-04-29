@@ -6,8 +6,10 @@
 
 ## Currently Building
 
-- [**FlagSay (彩旗说)**](https://flagsay.com) — a language learning app with AR and AI companion features for **iOS**, **Android**, and **HarmonyOS**
-- [**Era Workshop**](https://eraworkshop.com) — a custom era and date naming app, available on the **App Store**
+- [**FlagSay (彩旗说)**](https://flagsay.com) — a language learning app with AR and AI companion features, available on the [**App Store**](https://apps.apple.com/app/id6749497690)
+- [**CaiQi Scholar (彩旗学术)**](https://scholar.skstudio.cn/) — an AI-powered academic research assistant for literature review, paper reading, and writing
+- [**MedTrace (医迹)**](https://medtrace.skstudio.cn/) — an offline-first personal health timeline app, available on the [**App Store**](https://apps.apple.com/app/id6759861230)
+- [**Era Workshop（纪元工坊）**](https://eraworkshop.com) — a custom era and date naming app, available on the [**App Store**](https://apps.apple.com/app/id6749497816)
 
 ## Tech Stack
 
