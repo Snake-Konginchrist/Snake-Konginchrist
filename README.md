@@ -1,7 +1,6 @@
 # Hi, I'm Snake Konginchrist
 
-- Independent developer from Shanghai, China
-- Building products at the intersection of mobile, AI, and language learning
+- Independent developer building products from Shanghai, China
 - Founder of **SK Studio** with my co-founder [@celynnmoonlight](https://github.com/celynnmoonlight)
 - Also a brony, always happy to connect with others in the herd
 
@@ -26,6 +25,6 @@
 
 - Email: [developer@skstudio.cn](mailto:developer@skstudio.cn)
 - X (Twitter): [@SnakeKongin](https://x.com/SnakeKongin)
-- Xiaohongshu (RedNote): [Profile](https://www.xiaohongshu.com/user/profile/6007fc8a000000000101e9af)
+- Xiaohongshu (RedNote): [9429026270](https://www.xiaohongshu.com/user/profile/6007fc8a000000000101e9af)
 
-If you want to talk about language learning products, HarmonyOS, AI agents, indie building, or MLP, feel free to reach out.
+If you want to talk about HarmonyOS, AI agents, indie building, or MLP, feel free to reach out.
