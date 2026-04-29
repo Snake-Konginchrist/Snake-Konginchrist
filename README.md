@@ -6,8 +6,8 @@
 
 ## Currently Building
 
-- **FlagSay (彩旗说)** — a language learning app with AR and AI companion features for **iOS**, **Android**, and **HarmonyOS**
-- **Era Workshop** — a custom era and date naming app, available on the **App Store**
+- [**FlagSay (彩旗说)**](https://flagsay.com) — a language learning app with AR and AI companion features for **iOS**, **Android**, and **HarmonyOS**
+- [**Era Workshop**](https://eraworkshop.com) — a custom era and date naming app, available on the **App Store**
 
 ## Tech Stack
 
