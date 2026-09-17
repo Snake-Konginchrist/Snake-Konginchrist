@@ -14,7 +14,7 @@
 
 ## Tech Stack
 
-- **Mobile:** Flutter, Swift,, Kotlin, ArkTS
+- **Mobile:** Flutter, Swift, Kotlin, ArkTS
 - **Web / Backend:** React, Node.js, FastAPI, Python
 - **AI:** LLM integration, local model deployment, agent workflows
 - **Ops:** Linux servers, Nginx, Docker
