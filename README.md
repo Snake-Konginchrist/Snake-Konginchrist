@@ -28,6 +28,5 @@
 
 - Email: [developer@skstudio.cn](mailto:developer@skstudio.cn)
 - X (Twitter): [@SnakeKongin](https://x.com/SnakeKongin)
-- Xiaohongshu (RedNote): [9429026270](https://www.xiaohongshu.com/user/profile/6007fc8a000000000101e9af)
 
 If you want to talk about HarmonyOS, AI agents, indie building, or MLP, feel free to reach out.
