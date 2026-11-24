@@ -2,6 +2,7 @@
 
 - Independent developer building products from Shanghai, China
 - Founder of **SK Studio** with my co-founder [@celynnmoonlight](https://github.com/celynnmoonlight)
+- I subscribe to both **ChatGPT Plus** and **Claude Pro**
 - Also a brony, always happy to connect with others in the herd
 
 ## Currently Building
@@ -18,7 +19,7 @@
 
 - **Mobile:** Flutter, Swift, Kotlin, ArkTS
 - **Web Frontend:** React
-- **Backend:** Go (Chi), TypeScript (Node.js, NestJS), Python (FastAPI)
+- **Backend:** Go (Chi), TypeScript (NestJS), Python (FastAPI)
 - **Data:** PostgreSQL, Redis
 - **AI:** LLM integration, local model deployment, agent workflows
 - **Ops:** Linux servers, Nginx, Docker
