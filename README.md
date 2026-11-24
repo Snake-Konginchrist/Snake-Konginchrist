@@ -7,6 +7,8 @@
 ## Currently Building
 
 - [**Flagsay (彩旗说)**](https://flagsay.com) — a language learning app with AR and AI companion features, available on the [**App Store**](https://apps.apple.com/app/id6749497690)
+- [**Flagsay Waifu (彩旗说陪伴)**](https://flagsaywaifu.com) — an app designed for adult men to build a lasting romantic relationship with an AI girlfriend who remembers shared experiences and can reach out first
+- [**Flagsay Husbando (彩旗说恋境)**](https://flagsayhusbando.com) — an app designed for women to chat with AI boyfriends who remember shared experiences and explore branching, text-based romance stories
 - [**Era Workshop (纪元工坊)**](https://eraworkshop.com) — a custom era and date naming app, available on the [**App Store**](https://apps.apple.com/app/id6749497816)
 - [**Gourmetlens (美食透镜)**](https://apps.apple.com/app/id6749497628) — an app for recording every dish and restaurant you've tried, building your own food memory footprint, available on the [**App Store**](https://apps.apple.com/app/id6749497628)
 - [**MedTrace (医迹)**](https://medtrace.skstudio.cn/) — an offline-first personal health timeline app, available on the [**App Store**](https://apps.apple.com/app/id6759861230)
@@ -15,7 +17,9 @@
 ## Tech Stack
 
 - **Mobile:** Flutter, Swift, Kotlin, ArkTS
-- **Web / Backend:** React, Node.js, FastAPI, Python
+- **Web Frontend:** React
+- **Backend:** Go (Chi), TypeScript (Node.js, NestJS), Python (FastAPI)
+- **Data:** PostgreSQL, Redis
 - **AI:** LLM integration, local model deployment, agent workflows
 - **Ops:** Linux servers, Nginx, Docker
 
